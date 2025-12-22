@@ -1,4 +1,4 @@
-package ArraysAndHashing;
+package _1.Arrays_Hashing;
 
 import java.util.Arrays;
 
@@ -60,4 +60,3 @@ public class ValidAnagram {
         return true;
     }
 }
-

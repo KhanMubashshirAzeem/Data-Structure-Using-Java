@@ -1,8 +1,8 @@
-package array;
+package _1.Arrays_Hashing;
 
 import java.util.Arrays;
 
-public class PairSum {
+public class TwoSum {
     public static void main(String[] args) {
         // Case 1
         int[] arr = {3, 4, 2, 6};
